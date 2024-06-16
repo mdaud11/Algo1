@@ -1,0 +1,10 @@
+C:\Users\daudh\source\repos\Task 2.5 Customers\Task 2.5 Customers\bin\Debug\Task 2.5 Customers.exe.config
+C:\Users\daudh\source\repos\Task 2.5 Customers\Task 2.5 Customers\bin\Debug\Task 2.5 Customers.exe
+C:\Users\daudh\source\repos\Task 2.5 Customers\Task 2.5 Customers\bin\Debug\Task 2.5 Customers.pdb
+C:\Users\daudh\source\repos\Task 2.5 Customers\Task 2.5 Customers\obj\Debug\Task 2.5 Customers.csproj.AssemblyReference.cache
+C:\Users\daudh\source\repos\Task 2.5 Customers\Task 2.5 Customers\obj\Debug\Task_2._5_Customers.Form1.resources
+C:\Users\daudh\source\repos\Task 2.5 Customers\Task 2.5 Customers\obj\Debug\Task_2._5_Customers.Properties.Resources.resources
+C:\Users\daudh\source\repos\Task 2.5 Customers\Task 2.5 Customers\obj\Debug\Task 2.5 Customers.csproj.GenerateResource.cache
+C:\Users\daudh\source\repos\Task 2.5 Customers\Task 2.5 Customers\obj\Debug\Task 2.5 Customers.csproj.CoreCompileInputs.cache
+C:\Users\daudh\source\repos\Task 2.5 Customers\Task 2.5 Customers\obj\Debug\Task 2.5 Customers.exe
+C:\Users\daudh\source\repos\Task 2.5 Customers\Task 2.5 Customers\obj\Debug\Task 2.5 Customers.pdb

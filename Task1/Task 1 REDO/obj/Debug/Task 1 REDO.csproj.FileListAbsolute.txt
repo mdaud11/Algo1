@@ -1,0 +1,10 @@
+C:\Users\daudh\source\repos\Task 1 REDO\Task 1 REDO\bin\Debug\Task 1 REDO.exe.config
+C:\Users\daudh\source\repos\Task 1 REDO\Task 1 REDO\bin\Debug\Task 1 REDO.exe
+C:\Users\daudh\source\repos\Task 1 REDO\Task 1 REDO\bin\Debug\Task 1 REDO.pdb
+C:\Users\daudh\source\repos\Task 1 REDO\Task 1 REDO\obj\Debug\Task 1 REDO.csproj.AssemblyReference.cache
+C:\Users\daudh\source\repos\Task 1 REDO\Task 1 REDO\obj\Debug\Task_1_REDO.Form1.resources
+C:\Users\daudh\source\repos\Task 1 REDO\Task 1 REDO\obj\Debug\Task_1_REDO.Properties.Resources.resources
+C:\Users\daudh\source\repos\Task 1 REDO\Task 1 REDO\obj\Debug\Task 1 REDO.csproj.GenerateResource.cache
+C:\Users\daudh\source\repos\Task 1 REDO\Task 1 REDO\obj\Debug\Task 1 REDO.csproj.CoreCompileInputs.cache
+C:\Users\daudh\source\repos\Task 1 REDO\Task 1 REDO\obj\Debug\Task 1 REDO.exe
+C:\Users\daudh\source\repos\Task 1 REDO\Task 1 REDO\obj\Debug\Task 1 REDO.pdb
